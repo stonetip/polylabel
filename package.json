@@ -4,21 +4,16 @@
   "description": "A JS library for finding optimal label position inside a polygon",
   "main": "polylabel.js",
   "scripts": {
-    "pretest": "eslint *.js test/*.js",
     "test": "tape test/test.js"
   },
   "keywords": [],
   "author": "Vladimir Agafonkin",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^4.19.1",
-    "eslint-config-mourner": "^2.0.1",
     "tape": "^4.11.0"
   },
-  "eslintConfig": {
-    "extends": "mourner"
-  },
   "dependencies": {
+    "@turf/turf": "^5.1.6",
     "tinyqueue": "^2.0.3"
   }
 }

@@ -1,0 +1,3 @@
+T:\geoprocessing\scripts\polylabel\obj\Debug\polylabel.njsproj.CoreCompileInputs.cache
+T:\geoprocessing\scripts\polylabel\bin\Microsoft.NodejsTools.WebRole.dll
+T:\geoprocessing\scripts\polylabel\obj\Debug\polylabel.njsprojAssemblyReference.cache

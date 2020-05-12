@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "polylabel", "polylabel.njsproj", "{84582D24-3B34-4E02-BF16-3E990131637C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84582D24-3B34-4E02-BF16-3E990131637C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84582D24-3B34-4E02-BF16-3E990131637C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84582D24-3B34-4E02-BF16-3E990131637C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84582D24-3B34-4E02-BF16-3E990131637C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58059EBA-8737-4EED-BEE1-6EF8FED2720E}
+	EndGlobalSection
+EndGlobal

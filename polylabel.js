@@ -71,7 +71,7 @@ function polylabel(polygon, precision, debug) {
         console.log('best distance: ' + bestCell.d);
     }
 
-    return [bestCell.x, bestCell.y];
+    return [bestCell.x, bestCell.y, bestCell.d];
 }
 
 function compareMax(a, b) {
